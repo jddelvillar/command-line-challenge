@@ -1,8 +1,8 @@
 Yes, you were right... the command line is the most boring thing...
 .
 .
+.ge
 .
 .
 .
-.
-But you need to master it to be a developer.
+But you need to master it to be a developer.git status
